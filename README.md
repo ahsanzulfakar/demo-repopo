@@ -8,5 +8,5 @@ watch tutorial on youtube.
 
 ##local development
 
-1.open index in ur browser
+1.open index in ur browsers
 
